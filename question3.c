@@ -77,4 +77,3 @@ int main() {
     editDistance(X, Y);
 
     return 0;
-}
